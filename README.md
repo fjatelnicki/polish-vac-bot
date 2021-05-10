@@ -19,7 +19,7 @@ https://pacjent.erejestracja.ezdrowie.gov.pl/rezerwacja-wizyty
 
 1. Wejdź na stronę https://pacjent.erejestracja.ezdrowie.gov.pl/auth
 2. Zaloguj się
-3. Zobacz na ikonce nowozainstalowej wtyczki, **czy świeci się czerwona cyfra**
+3. Zobacz na ikonce nowozainstalowej wtyczki, **czy świeci się czerwona cyfra** (jeżeli się nie pokazuje, należy odświeżyć stronkę kilka razy)
 4. Przejdź do wyszkukiwania szczepionek. (Żeby umówić się na inny termin należy zrezygownować z terminu, na który jesteśmy umówieni)
 5. Masz 50 sekund na wybranie wszystkich parametrów, które nas interesują (miasto, rodzaj szczepionki itd.)
 6. ! Kliknij **szukaj** tak aby nie pokazało żadnych wyników
