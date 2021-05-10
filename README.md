@@ -7,7 +7,7 @@ Prosty skrypt to złapania najbliższego terminu szczepienia
 - Link do strony wtyczki: https://www.tampermonkey.net/
 
 ## Obejrzyj instrukcję 
-VIDEO
+https://www.loom.com/share/d6b4c1b8abff467a9a9579c74e1e87c9
 
 ## Plik skryptu
 https://raw.githubusercontent.com/Biszkoptu/polish_vac_bot/main/script.js
