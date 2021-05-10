@@ -2,12 +2,12 @@
 Prosty skrypt to złapania najbliższego terminu szczepienia
 
 ## Pobierz wtyczkę Tempermonkey na swoją przeglądarkę
-Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
-Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
-Link do strony: https://www.tampermonkey.net/
+- Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
+- Chrome: https://chrome.google.com/webstore/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=en
+- Link do strony wtyczki: https://www.tampermonkey.net/
 
 ## Obejrzyj instrukcję 
-<video>
+VIDEO
 
 ## Plik skryptu
 https://raw.githubusercontent.com/Biszkoptu/polish_vac_bot/main/script.js
