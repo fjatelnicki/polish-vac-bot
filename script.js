@@ -15,7 +15,7 @@
     //Definicja funkcji
     function searchVac(){
             setTimeout(() => { //żeby dobrze pobrał element
-                let buttonSearch = document.getElementsByClassName('sc-kstrdz doevxB sc-gYhigD jcKiga').item(0);
+                let buttonSearch = document.getElementsByClassName('sc-kstrdz doevxB sc-fxNNfJ kBWkZA').item(0);
 
                 var LookFor = "Nie znaleziono terminów. Zmień kryteria wyszukiwania i spróbuj ponownie."; // Change this to find a different string
                 var content = document.body.textContent || document.body.innerText;
