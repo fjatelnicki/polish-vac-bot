@@ -1,5 +1,5 @@
 # Polish Vaccination Bot
-Prosty skrypt to złapania najbliższego terminu szczepienia
+Prosty skrypt do złapania najbliższego terminu szczepienia
 
 ## Pobierz wtyczkę Tampermonkey na swoją przeglądarkę
 - Firefox: https://addons.mozilla.org/en-US/firefox/addon/tampermonkey/
